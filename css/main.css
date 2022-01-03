@@ -1,0 +1,64 @@
+:root{
+    /* colors */
+    --off-white: #FAF9F6;
+    --off-black: #041A1C;
+    --cerulean: #04859C;
+    --turquoise: #04D4DE;
+    --mosque: #04676E;
+
+    /* background image */
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* Typography */
+h1, h2, h3, p, a, li{
+    color: var(--off-white); 
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* General Styles */
+.inner-container{
+    padding: 1rem;
+}
+.mosque-bgd{
+    background-color: var(--mosque);
+    opacity: 90%;
+}
+
+
+/* Navigation Bar */
+header{
+    position: sticky;
+    top: 0;
+    z-index: 5;
+}
+.navigation{
+    background-color: var(--off-black);
+}
+.nav-transition{
+    background: linear-gradient(rgba(4,26,28,1), rgba(4,26,28,0));
+    height: 3rem;
+}
+
+/* Content */
+
+.content-spacing{
+    margin: 2rem;
+    border-radius: 10px;
+}
+
+
+.test-h{
+    height: 20rem;
+}
+
+/* Footer */
+footer{
+    padding: 1rem;
+    padding-left: 2rem;
+    background-color: var(--off-black);
+}
