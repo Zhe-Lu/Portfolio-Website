@@ -7,16 +7,15 @@
     --mosque: #04676E;
 
     /* background image */
-    background-image: url(../img/background.jpg);
+    background-image: url(../img/background2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-attachment: fixed;
 }
+
 /* Typography */
 h1, h2, h3, p, a, li{
     color: var(--off-white); 
-}
-h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -52,13 +51,10 @@ header{
 }
 
 
-.test-h{
-    height: 20rem;
-}
-
 /* Footer */
 footer{
     padding: 1rem;
     padding-left: 2rem;
     background-color: var(--off-black);
+    opacity: 90%;
 }
