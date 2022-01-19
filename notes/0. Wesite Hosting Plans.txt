@@ -1,0 +1,33 @@
+https://blog.resellerclub.com/how-to-host-a-domain-website-on-your-own/
+
+https://www.pcmag.com/news/how-to-register-a-domain-name-for-your-website
+
+
+
+
+Jen portfolio example:
+https://jenbarnsley.wixsite.com/jenb-qa?fbclid=IwAR3HFidjZCq_JesLmvwBDzqI14oxvva5z12F5MLCG9EyVQYgSK0jGT6hYL8
+
+
+youtube guide:
+https://www.youtube.com/watch?v=_xkSvufmjEs&ab_channel=freeCodeCamp.org
+
+
+
+
+CSS tricks for styling and clean code:
+https://css-tricks.com/almanac/selectors/r/root/
+
+
+
+
+Ideas to learn:
+clean code
+https://clictadigital.com/how-to-use-h1-h2-and-h3-header-tags-for-seo-effectively/
+
+good css/html coding practices
+https://medium.com/before-semicolon/50-css-best-practices-guidelines-to-write-better-css-c60807e9eee2
+
+static and dynamic websites
+https://wpamelia.com/static-vs-dynamic-website/#:~:text=Static%20websites%20are%20ones%20that,databases%20in%20addition%20to%20HTML.
+"Static websites use only client-side HTML and CSS code while dynamic websites rely on both client-side and server-side scripting languages such as JavaScript, PHP, or ASP. When a user accesses a dynamic website, the site can be changed through code that is run in the browser and/or on the server. The end result is the same as that on a static website: an HTML page displayed on the web browser."

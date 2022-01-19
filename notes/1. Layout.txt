@@ -1,0 +1,63 @@
+- big/medium/small focus heiarchy
+	- what is the first thing you want people to focus on when they enter you webpage?
+	- size/contrast but size more important most of the time
+	- theme: sharp/smart/modern
+
+- although (16:9)/(21:9) monitors exist, we do not want the user to scan from right to left
+- use max-width for main container (max 1000px? apple is 1400px but depends)
+
+- grid of invisible lines that helps us re-arrange content into lines
+	- 12 columns (divisible 2/3/4/6)
+	- rows do not matter as much since you can scroll
+	- can be used to create order from disorder, check apple home page for example
+	- gutter is the space between the columns
+		- more gutter for text preferred
+		- less gutter is acceptable for images
+
+- Free image source: >>>     [ https://unsplash.com/ ]
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- light/dark theme js implementation ????
+
+
+Colors have cultural significance
+- Black = Death in Western Culture  |   White = Death in Eastern Culture
+
+- Understand the meaning of each color
+>>>    [ https://www.empower-yourself-with-color-psychology.com/meaning-of-colors.html ]
+
+- Main color / accent color; make a choice thats rational based on the needs / content type / audience
+- How much of that color should I use; create a palette
+>>>     [ https://color.adobe.com/create/color-wheel ]
+
+60 - 30 - 10 rule: 60% is main, 30% secondary, 10% accent color *in each frame*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- Heiarchy allows the user to decide what is most important and allows us to guide them to specific material
+- Ways to create Heiarchy:
+	- size
+	- Color / contrast
+	- Position, elements not in line grab out attention
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Most people choose to either leave or stay within 15 seconds of coming to the website
+They choose depending on how easily we can answer thier main questions:
+- What is this? Who are you? Where am I right now?
+- What do you do? Are you selling something or is this a content website?
+- What am I supposed to do here? What is the purpose of this website?
+- What is in it for me? Why should I spend time on your website?
+
+
+
+
+
+
+
+

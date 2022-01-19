@@ -1,0 +1,22 @@
+The Purpose of a Font:
+- Easy to read
+- Communitcate Values and tone (aesthetics)
+
+Serif vs Sans-serif
+- Serif has a bit of decoration while sans-serif is a cleaner typeface
+- Sans-serif has a more modern and clean look
+- Seriff has an older look thats premium/important/established look
+
+You do not want long lines make makes the user tilt/move thier head to read
+This reduces the legibility of the text and it is more uncomfortable to read
+- make sure that each line is about 10 words
+
+Suggested Serif Fonts:
+- Garamond
+- Bodoni
+- Century Expanded
+- Times Roman
+
+Suggested Sans-Seriff Fonts:
+- Futura
+- Helvetica 

@@ -1,0 +1,17 @@
+- light/dark theme js implementation 
+
+- big/medium/small focus heiarchy
+	- what is the first thing you want people to focus on when they enter you webpage?
+	- size/contrast but size more important most of the time
+	- theme: sharp/smart/modern
+
+- grid of invisible lines that helps us re-arrange content into lines
+	- 12 columns (divisible 2/3/4/6)
+	- rows do not matter as much since you can scroll
+	- can be used to create order from disorder, check apple home page for example
+	- gutter is the space between the columns
+		- more gutter for text preferred
+		- less gutter is acceptable for images
+
+- although (16:9)/(21:9) monitors exist, we do not want the user to scan from right to left
+- use max-width for main container (max 1000px? apple is 1400px but depends)

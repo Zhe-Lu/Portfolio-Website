@@ -2,15 +2,14 @@
     /* colors */
     --off-white: #FAF9F6;
     --off-black: #041A1C;
-    --cerulean: #04859C;
-    --turquoise: #04D4DE;
-    --mosque: #04676E;
+    --dark-ocean: #16243b;
+    --turquoise: #04ADBF;
+    --blue: #1D6DF2;
+    --hazelnut: #C75E36;
+    --orange: #F2391D;
 
     /* background image */
-    background-image: url(../img/background2.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-color: var(--dark-ocean);
 }
 
 /* Typography */
@@ -20,14 +19,14 @@ h1, h2, h3, p, a, li{
 }
 
 /* General Styles */
+.page-container{
+    width: 1000px;
+    margin: auto;
+}
+
 .inner-container{
     padding: 1rem;
 }
-.mosque-bgd{
-    background-color: var(--mosque);
-    opacity: 90%;
-}
-
 
 /* Navigation Bar */
 header{
@@ -52,9 +51,18 @@ header{
 
 
 /* Footer */
-footer{
-    padding: 1rem;
-    padding-left: 2rem;
+footer p{
+    text-align: right;
+    font-size: 0.75rem;
+}
+
+.footer-content{
+    padding: 1rem 2rem;
     background-color: var(--off-black);
     opacity: 90%;
+}
+
+.footer-transition{
+    background: linear-gradient(rgba(4,26,28,0), rgba(4,26,28,1));
+    height: 2rem;
 }
